@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumnis on SOM</title>
-    <link>https://dalbandea.github.io/websiteSOMtest/alumni/</link>
+    <link>/alumni/</link>
     <description>Recent content in Alumnis on SOM</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; SOM group, 2022 </copyright>
     <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
     
-	<atom:link href="https://dalbandea.github.io/websiteSOMtest/alumni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Member 11111111111111111</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/alumni/david-albandea/</link>
+      <link>/alumni/david-albandea/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/alumni/david-albandea/</guid>
+      <guid>/alumni/david-albandea/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Member 11111111111111111111</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/alumni/fabian-esser/</link>
+      <link>/alumni/fabian-esser/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/alumni/fabian-esser/</guid>
+      <guid>/alumni/fabian-esser/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Member 1111111111111111111111111</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/alumni/federica-pompa/</link>
+      <link>/alumni/federica-pompa/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/alumni/federica-pompa/</guid>
+      <guid>/alumni/federica-pompa/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Member 2</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/alumni/member2/</link>
+      <link>/alumni/member2/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/alumni/member2/</guid>
+      <guid>/alumni/member2/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
     <item>
       <title>Member 3</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/alumni/member1/</link>
+      <link>/alumni/member1/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/alumni/member1/</guid>
+      <guid>/alumni/member1/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>

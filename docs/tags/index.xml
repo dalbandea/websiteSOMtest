@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SOM</title>
-    <link>https://dalbandea.github.io/websiteSOMtest/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on SOM</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; SOM group, 2022 </copyright>
     
-	<atom:link href="https://dalbandea.github.io/websiteSOMtest/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

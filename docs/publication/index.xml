@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on SOM</title>
-    <link>https://dalbandea.github.io/websiteSOMtest/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on SOM</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; SOM group, 2022 </copyright>
     <lastBuildDate>Tue, 12 Jul 2016 16:37:31 +0200</lastBuildDate>
     
-	<atom:link href="https://dalbandea.github.io/websiteSOMtest/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>https://dalbandea.github.io/websiteSOMtest/publication/learning/</link>
+      <link>/publication/learning/</link>
       <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
       
-      <guid>https://dalbandea.github.io/websiteSOMtest/publication/learning/</guid>
+      <guid>/publication/learning/</guid>
       <description>You can add information in $\LaTeX$ and Markdown here.</description>
     </item>
     
