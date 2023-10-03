@@ -1,0 +1,165 @@
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+# baseurl = "https://ific.uv.es/~daljor/" # run with hugo --server -D locally # commenting this out
+relativeURLs = true
+canonifyurls = true
+theme = "SOM-hugo-academic-group"
+title = "SOM"
+math = true
+copyright = "&copy; SOM group, 2022 "
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of research group"
+  author = "Your name"
+  email = "mail@example.org"
+  address = "3566 Spirit Drive NEW HAVEN Connecticut"
+
+  slogan = "SOM - Flavor and Origin of Matter"
+  slogan_text = "Sabor y Origen de la Materia"
+
+  [[params.slogan_columns]]
+    title = "About"
+    text =  "SOM (We are) is one of the leading theoretical particle physics groups in Spain, and includes IFIC members from the University of Valencia and CSIC. "
+    link = "/about"
+    link_text = "Meet the team"
+    weight = 1
+  
+  [[params.slogan_columns]]
+    title = "Research"
+    text = "Our group has a broad research program in flavor physics with active work in Lattice QCD, neutrino phenomenology and leptogenesis. Members of the group also carry out research in cosmology and fundamental physics. While we have a strong theoretical component to our research, some of us are involved in large collaborations in neutrino physics ( Euronu ) and cosmology (SDSSIII)."
+    link = "/research"
+    link_text = "Read more"
+    weight = 2
+
+  [[params.slogan_columns]]
+    title = "Seminars and Colloquia"
+    text = "SOM is the most active group at IFIC organizing about half of the IFIC collloquia and IFIC seminars (see La Trobada and Invisibles webinar)."
+    link = "/approach"
+    link_text = "See next events"
+    weight = 3
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 3
+    str_all = "More Projects"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "SOM"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Research"
+      url = "/research"
+      weight = 2
+
+  [[menu.main]]
+      parent = "Research"
+      name = "Overview"
+      url  = "/research"
+      weight = 1
+
+  [[menu.main]]
+      parent = "Research"
+      name = "Neutrinos"
+      url  = "/research-contents/neutrinos/neutrinos"
+      weight = 2
+
+  [[menu.main]]
+      parent = "Research"
+      name = "Cosmology"
+      url  = "/research-contents/cosmology/cosmology"
+      weight = 3
+
+  [[menu.main]]
+      parent = "Research"
+      name = "Lattice QCD"
+      url  = "/research-contents/lattice-field-theories/lattice-field-theories"
+      weight = 4
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/#publications"
+      weight = 3
+
+    [[menu.main]]
+      name = "Projects"
+      url = "/projects"
+      weight = 4
+
+    [[menu.main]]
+      name = "Jobs"
+      url = "/jobs"
+      weight = 5
+
+  [[menu.main]]
+      name = "Members"
+      url = "/#members"
+      weight = 6
+
+  [[menu.main]]
+      name = "Blog"
+      url = "/#posts"
+      weight = 7
+
+  [[menu.main]]
+      name = "Visit us"
+      url = "/visit_us"
+      weight = 8
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 9
