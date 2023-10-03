@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research-contents on SOM</title>
+    <link>https://dalbandea.github.io/websiteSOMtest/research-contents/</link>
+    <description>Recent content in Research-contents on SOM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; SOM group, 2022 </copyright>
+    
+	<atom:link href="https://dalbandea.github.io/websiteSOMtest/research-contents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lattice Field Theories</title>
+      <link>https://dalbandea.github.io/websiteSOMtest/research-contents/lattice-field-theories/lattice-field-theories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dalbandea.github.io/websiteSOMtest/research-contents/lattice-field-theories/lattice-field-theories/</guid>
+      <description>Lattice Field Theories Non-abelian gauge theories show the surprising property that the strength of the interaction decreases at short distances (a phenomena called asymptotic freedom). This seemingly simple fact is behind a very rich phenomenology. At short distances particles interact very weakly and accurate predictions are possible thanks to a perturbative approach. On the other hand at large distances the theory becomes strongly coupled, and a non-perturbative framework is needed in order to make any sensible prediction.</description>
+    </item>
+    
+    <item>
+      <title>Neutrinos</title>
+      <link>https://dalbandea.github.io/websiteSOMtest/research-contents/neutrinos/neutrinos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dalbandea.github.io/websiteSOMtest/research-contents/neutrinos/neutrinos/</guid>
+      <description>Neutrinos HINTS OF &amp;lsquo;BSM&amp;rsquo; PHYSICS FROM NEUTRINOS The definitive discovery of a non-zero neutrino mass represents a strong experimental hint for physics beyond the Standard Model (BSM). Neutrino, with its unknown mass and its uncertain Dirac or Majorana nature, is waiting to be placed into a new model capable to describe it in the correct way. A strong interplay between particle physics, cosmology and astroparticle physics is needed to take steps forward into this field, as well as theoretical and experimental efforts have to be tightly connected to look for new physics signatures.</description>
+    </item>
+    
+    <item>
+      <title>Cosmology</title>
+      <link>https://dalbandea.github.io/websiteSOMtest/research-contents/cosmology/cosmology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dalbandea.github.io/websiteSOMtest/research-contents/cosmology/cosmology/</guid>
+      <description>$x^2$
+$$\begin{eqnarray} x =&amp;amp; y \\
+x =&amp;amp; 2y \end{eqnarray}$$
+$$ \begin{equation} x=2 \end{equation} $$
+         This is     Piece of code:  BeginPackage[&amp;#34;YourPackage`&amp;#34;] (* Public symbols usage *) Get[&amp;#34;`OptionsValidation`&amp;#34;] Begin[&amp;#34;`Private`&amp;#34;] (* Implementation *) End[] EndPackage[] Dark Matter and Dark Energy Unprecedented precision measurements of Cosmic Microwave Background (CMB) temperature and polarization anisotropies from the Planck satellite, together with Type Ia Supernovae(SNeIa) luminosity distance measurements, and measurements of the clustering of the large-scale structure (LSS) of our Universe from a number of galaxy redshift surveys, have provided a remarkably accurate description of the Universe.</description>
+    </item>
+    
+  </channel>
+</rss>
