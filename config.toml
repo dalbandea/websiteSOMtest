@@ -2,7 +2,7 @@ publishdir = "docs"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-# baseurl = "https://dalbandea.github.io/websiteSOMtest/" # run with hugo --server -D locally # commenting this out
+baseurl = "https://dalbandea.github.io/websiteSOMtest/" # run with hugo --server -D locally # commenting this out
 relativeURLs = true
 canonifyurls = true
 theme = "SOM-hugo-academic-group"
