@@ -1,0 +1,41 @@
+Seniors
+=======
+- nuria-rius.md
+- pilar-hernandez.md
+- andrea-donini.md
+- olga-mena.md
+- carlos-pena-garay.md
+- roberto-ruiz.md
+- veronica-sanz.md
+
+Juniors
+=======
+- daniel-figueroa.md
+- claudia-hagedorn.md
+- juan-herrero.md
+- jacobo-lopez.md
+- alberto-ramos.md
+- bryan-zaldivar.md
+
+Postdocs
+========
+- giacomo-landini.md
+- catarina-cosme.md
+- francesco-capozzi.md
+
+
+PhD students
+============
+- david-albandea.md
+- jorge-baeza.md
+- androniki-dimitrou.md
+- fabian-esser.md
+- rasmi-hajjar.md
+- nicolas-loayza.md
+- alejandro-munoz.md
+- victor-munoz.md
+- federica-pompa.md
+- stefan-sandner.md
+- guilherme-telo.md
+- salvador-urrea.md
+- drona-vatsyayan.md
