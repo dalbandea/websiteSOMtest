@@ -146,8 +146,9 @@ tag = "tags"
 
   [[menu.main]]
       name = "Members"
-      url = "/#members"
-      weight = 6
+      # url = "/#members"
+      url = "/member"
+      weight = 7
 
   # [[menu.main]]
   #     name = "Blog"

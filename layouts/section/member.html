@@ -12,7 +12,7 @@
 {{ if gt $alumni_len 0 }}
 
 <div class="container">
-    <h1>Alumnii</h1>
+    <h1>PostDocs and PhD students</h1>
     {{ range where .Site.RegularPages "Section" "alumni" }}
         {{ partial "alumni_li" . }}
     {{ end }}

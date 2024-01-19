@@ -1,0 +1,777 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Charlas para IES del Instituto de Física Corpuscular. Curso 2021-
+ 2022
+DTSTART;VALUE=DATE-TIME:20211006T110000Z
+DTEND;VALUE=DATE-TIME:20220630T170000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6395@indico.ific.uv.es
+DESCRIPTION:El Instituto de Física Corpuscular (IFIC) es un centro mixto 
+ del CSIC y la Universidad de Valencia\, líder en investigación experimen
+ tal y teórica en física de partículas\, astropartículas y nuclear. El 
+ IFIC es pionero en España en la investigación experimental de los consti
+ tuyentes de la materia\, con una trayectoria que arrancó en la década de
+  1950. \n\n\nLas charlas que ofrece el Instituto de Física Corpuscular e
+ n centros de secundaria están dirigidas principalmente a estudiantes de 
+ últimos cursos de ESO y de Bachillerato. Tras completar esta solicitud\, 
+ la organización se pondrá en contacto con vosotros para concretar la fec
+ ha\, horario y demás detalles de la charla.\n\nCharlas ofertadas por el I
+ FIC:\n\nLas partículas elementales en el LHC: ¿Qué sabemos y qué nos f
+ alta por saber?\n\nCharla que explica la investigación que se realiza en 
+ el Gran Colisionador de Hadrones (LHC) y la participación del IFIC en uno
+  de sus grandes experimentos\, el detector ATLAS. En julio de 2012\, este 
+ experimento anunció el descubrimiento de una nueva partícula\, el bosón
+  de Higgs\, que permite entender el origen de la masa de las partículas f
+ undamentales. Este descubrimiento abre una nueva ventana al conocimiento d
+ e nuestro. Tras el descubrimiento del bosón de Higgs\, quedan muchas preg
+ untas pendientes: ¿es éste el único bosón de Higgs?\; ¿de qué está 
+ hecha la materia oscura que forma gran parte del universo?\; ¿son las par
+ tículas elementales realmente elementales?\n\nMás allá de la luz: la f
+ ísica de astropartículas\n\nDesde las primeras observaciones con telesco
+ pio realizadas por Galileo hemos aprendido mucho del Universo gracias a la
+  luz. Sin embargo\, en los últimos años los físicos hemos conseguido mi
+ rar el cielo de otra manera\, a través de la detección de otros tipos de
+  partículas elementales\, como los rayos cósmicos o los neutrinos. Su me
+ dida ha sido posible gracias a 'telescopios' muy diferentes de los habitua
+ les\, que describiremos en esta charla: grandes proyectos experimentales u
+ bicados en el fondo del mar\, en la Pampa argentina o en instalaciones sub
+ terráneas.\n\nFísica Nuclear: los núcleos y sus aplicaciones\n\nHa llov
+ ido mucho desde el experimento de Rutherford a principios del siglo XX\, 
+ pero los físicos nucleares seguimos bombardeando blancos con haces de par
+ tículas para entender como funciona el núcleo atómico (¡que concentra 
+ más del 99% de la masa del átomo!). Las reacciones nucleares que  se es
+ tudian en los grandes laboratorios de Física Nuclear son las mismas que m
+ antienen vivas a las estrellas\, y con ellas se "fabrican" los elementos 
+ químicos que conocemos. En esta charla haremos un viaje al interior de la
+  materia hasta el nivel nuclear e introduciremos el cómo y el por qué ha
+ cemos experimentos en grandes instalaciones de tres continentes distintos.
+  Además hablaremos de las aplicaciones concretas de nuestras medidas en A
+ strofísica y de nuestra instrumentación en Física Médica.\n\nCosmolog
+ ía: la ciencia del universo\n\nDurante siglos los científicos han mirado
+  al cielo\, tratando de entender los objetos que allí observamos y cómo 
+ conforman el objeto más grande del que tenemos noticia: el universo. Pero
+  ha sido sólo en la segunda mitad del siglo XX cuando\, al fin\, hemos de
+ sarrollado técnicas que nos permiten estudiar el universo en su conjunto\
+ , un objeto gigantesco en el que las galaxias son tan pequeñas como los 
+ átomos en una manzana. Para estudiarlo usamos la luz más antigua del uni
+ niverso\, el fondo cósmico de microondas\, o cartografiados con millones 
+ de galaxias. Gracias a ellos empezamos a entender la estructura\, composic
+ ión y evolución de este universo del que formamos parte.\nhttps://indico
+ .ific.uv.es/event/6395/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6395/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:@FlipPhysics
+DTSTART;VALUE=DATE-TIME:20220320T231000Z
+DTEND;VALUE=DATE-TIME:20220325T160500Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6372@indico.ific.uv.es
+DESCRIPTION:The @FlipPhysics workshop seeks to bring together the communit
+ y of physicist working in the areas of Nuclear\, Particle Physics and its 
+ Applications\, especially women\, and also (under)-graduate\, PhD student
+ s\, and young researchers\, who have the opportunity to be introduced to s
+ everal scientific topics through (mostly) women who have been successful i
+ n the field. \n\nSome of the topics that will be covered are:\n\n- Nucle
+ ar and Particle Physics\, and some of their applications (medical physics\
+ , quantum computing)\n\n- Machine Learning applied to Physics\n\n- Dark Ma
+ tter\n\n- Gravitational waves\n\n- Astroparticle Physics\n\n- Cosmology\n\
+ nAnd there will be also these activities: \n\n- Special session for under
+ graduate students\n\n- Virtual tours on experimental facilities\n\n- Sessi
+ ons on Gender Equality with experts\n\n- Sessions on research plan writing
+  and public speaking\n\n\n\n\nhttps://indico.ific.uv.es/event/6372/
+LOCATION:Salon de actos del IATA
+URL:https://indico.ific.uv.es/event/6372/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XIII CPAN DAYS
+DTSTART;VALUE=DATE-TIME:20220321T130000Z
+DTEND;VALUE=DATE-TIME:20220323T144500Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6457@indico.ific.uv.es
+DESCRIPTION:El objetivo de estas Jornadas es reunir a la comunidad cientí
+ fica española integrada en la Agrupación CPAN (Centro Nacional de Físic
+ a de Partículas\, Astropartículas y Nuclear) en torno a una discusión c
+ onjunta sobre la situación actual del campo y su prospectiva. Durante las
+  jornadas habrá conferencias invitadas y presentaciones cortas de caráct
+ er científico sobre las distintas líneas de investigación que abarca el
+  CPAN. Asimismo\, en las jornadas se celebrarán reuniones de las diferent
+ es redes y sesiones paralelas de discusión de las cuatro áreas del CPAN 
+ con el objeto de potenciar la cooperación de los grupos españoles de inv
+ estigación y articular de forma conjunta las líneas prioritarias de actu
+ ación.\n\nLas sesiones de charlas plenarias (martes y miércoles) podrán
+  seguirse vía zoom.\n\nhttps://uhu.zoom.us/j/97478169419?pwd=eVNzVXhiVEc4
+ NEhmUWlRdTVWaGVqZz09\nhttps://indico.ific.uv.es/event/6457/
+LOCATION:HUELVA
+URL:https://indico.ific.uv.es/event/6457/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visita Avancem Engineering
+DTSTART;VALUE=DATE-TIME:20220324T083000Z
+DTEND;VALUE=DATE-TIME:20220324T153000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6596@indico.ific.uv.es
+DESCRIPTION:Speakers: FCO. JAVIER CACERES (INEUSTAR\, Asociación español
+ a de la Industria de la Ciencia.)\, Rosa María Rodríguez Galán (IFIC)\,
+  Jose Enrique Garcia Navarro (IFIC (Instituto de Fisica Corpuscular))\nhtt
+ ps://indico.ific.uv.es/event/6596/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6596/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUNE-IFIC meeting
+DTSTART;VALUE=DATE-TIME:20220324T100000Z
+DTEND;VALUE=DATE-TIME:20220324T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6598@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6598/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6598/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masterclass Hands on Particle Physics: ejercicio LHCb
+DTSTART;VALUE=DATE-TIME:20220329T072500Z
+DTEND;VALUE=DATE-TIME:20220329T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6499@indico.ific.uv.es
+DESCRIPTION:La masterclass del día 29 de marzo estará dedicada al experi
+ mento LHCb.\nhttps://indico.ific.uv.es/event/6499/
+LOCATION:Universe
+URL:https://indico.ific.uv.es/event/6499/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: Supernovae as probes of soft lepton number violation
+DTSTART;VALUE=DATE-TIME:20220329T100000Z
+DTEND;VALUE=DATE-TIME:20220329T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6552@indico.ific.uv.es
+DESCRIPTION:Speakers: Manibrata Sen (Max-Planck-Institut für Kernphysik H
+ eidelberg)\nEver since the discovery of neutrinos\, we have wondered if ne
+ utrinos are their own antiparticles\, and whether lepton number is violate
+ d or not. One remarkable possibility is that lepton-number violation in th
+ e Standard Model is soft. In such scenarios\, neutrinos have a pseudo-Dira
+ c nature\, with a tiny mass difference between active and sterile states\,
+  having oscillations driven by this tiny mass difference. Such oscillation
+ s can only be visible over very long distances. In this talk\, I will disc
+ uss how analyzing the neutrino data from SN1987A in the light of active-st
+ erile oscillations can present a mild preference for such oscillations. No
+ tably\, the same data is able to exclude some of the tiniest mass differen
+ ces for neutrinos constrained so far. I will further discuss the prospects
+  of using the ever-present diffuse supernova neutrino background as a labo
+ ratory to test the possible\, albeit tiny\, violation of lepton number.\nh
+ ttps://indico.ific.uv.es/event/6552/
+LOCATION:Primera-1-1-1 - Paterna. Seminario (IFIC)
+URL:https://indico.ific.uv.es/event/6552/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUNE-IFIC meeting
+DTSTART;VALUE=DATE-TIME:20220330T073000Z
+DTEND;VALUE=DATE-TIME:20220330T083000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6606@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6606/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6606/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunión responsabilidades de los técnicos del IFIC
+DTSTART;VALUE=DATE-TIME:20220330T080000Z
+DTEND;VALUE=DATE-TIME:20220330T100000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6603@indico.ific.uv.es
+DESCRIPTION:Speakers: Luca Fiorini (IFIC / U. Valencia)\nZoom link\n\n \n
+  \n\n\n \nhttps://indico.ific.uv.es/event/6603/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6603/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strong interaction matter under extreme conditions within effectiv
+ e chiral quark models
+DTSTART;VALUE=DATE-TIME:20220330T093000Z
+DTEND;VALUE=DATE-TIME:20220330T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6604@indico.ific.uv.es
+DESCRIPTION:Speakers: Norberto Scoccola (Investigador de la Comisión Naci
+ onal de Energía Atómica(CNEA) y del Consejo Nacional de Investigaciones 
+ Científicas y Técnicas (CONICET)\, Argentina)\nhttps://indico.ific.uv.es
+ /event/6604/
+LOCATION:4-4-4426 - Seminari Física Teòrica (Campus Burjassot)
+URL:https://indico.ific.uv.es/event/6604/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masterclass Hands on Particle Physics: ejercicio MINERνA
+DTSTART;VALUE=DATE-TIME:20220331T073000Z
+DTEND;VALUE=DATE-TIME:20220331T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6497@indico.ific.uv.es
+DESCRIPTION:La masterclass del día 31 de marzo estará dedicada al experi
+ mento MINERνA.\nhttps://indico.ific.uv.es/event/6497/
+LOCATION:Universe
+URL:https://indico.ific.uv.es/event/6497/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bienal abstracts review
+DTSTART;VALUE=DATE-TIME:20220404T080000Z
+DTEND;VALUE=DATE-TIME:20220404T090000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6611@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6611/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6611/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some topics of Bayesian Inference
+DTSTART;VALUE=DATE-TIME:20220404T090000Z
+DTEND;VALUE=DATE-TIME:20220408T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6570@indico.ific.uv.es
+DESCRIPTION:Speakers: Bryan Zaldivar\, Alberto Ramos\nThe course will cons
+ ist of 10 hours\, 2h per day\, from 11:00 to 13:00. The outline is the fol
+ lowing:\n\n1. Fundamentals of Bayesian Inference. Laplace Approximation
+  \n\n2. Variational Inference\; Kullback-Leibler divergence. Working exam
+ ple with Tensorflow v2 (python)\n\n3. Inference in function space: Gaus
+ sian Processes\, Implicit Processes.\n\n4. Markov Processes\; Markov Chain
+  Monte Carlo\; Hybrid (a.k.a. Hamilton) Monte Carlo. \n\n5. Approximate B
+ ayesian Computation (ABC). Likelihood-free method. Normalizing flows.\n\n
+         \n\nMany of the topics will be accompanied by coding example
+ s.\n\n \n\n****** DAY\, TIME\, ROOM ***\n\n- Monday\, 11:00 - 13:00. 
+  1001-Primera-135 - Nave Exp. Sala de Audiovisuales\n\n- Tuesday\, 9:30 -
+  11:30.  1001-Primera-1-1-1 - Paterna. Seminario\n\n- Wednesday\, 11:00
+  - 13:00. 1001-Primera-1-1-1 - Paterna. Seminario\n\n- Thursday\, 11:00 
+ - 13:00. 1001-Primera-1-1-1 - Paterna. Seminario\n\n- Friday\, 11:00 - 
+ 13:00. 1001-Primera-1-1-1 - Paterna. Seminarioles\nhttps://indico.ific.uv
+ .es/event/6570/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6570/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC experimental seminar: "Neutron spectrometry with HENSA: from 
+ underground physics to space weather applications"
+DTSTART;VALUE=DATE-TIME:20220404T100000Z
+DTEND;VALUE=DATE-TIME:20220404T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6612@indico.ific.uv.es
+DESCRIPTION:Speakers: Ariel Tarifeno Saldivia (IFIC)\nIn underground facil
+ ities neutrons are produced from nuclear reactions induced by the intrinsi
+ c radioactivity of the materials in the rock and cavity walls. These radio
+ genic neutrons constitute a background which is a limiting factor for low 
+ counting rate experiments in astrophysics\, dark matter and neutrino searc
+ hes. Therefore\, a proper characterization of the spectral distribution of
+  radiogenic neutrons is required in order to properly assess or mitigate t
+ he neutron background component affecting experiments in underground facil
+ ities. On the other hand\, neutrons are produced continuously as a seconda
+ ry radiation from cosmic-ray interactions in the upper atmosphere of our p
+ lanet. This component is the main contribution to the ambient neutron back
+ ground observed at ground level or high altitudes. The measurement of cosm
+ ic-ray neutrons is connected with different fields such as environmental r
+ adioactivity\, single event upsets (SEUs) in microelectronics\, the physic
+ s of cosmic-rays and space weather.\n\nIn this seminar the High Efficiency
+  Neutron Spectrometry Array (HENSA) will be presented. HENSA is a state-of
+ -the-art detection system for neutron background spectrometry in low radio
+ activity facilities\, such as underground laboratories\, and for the measu
+ rement of secondary neutrons produced by cosmic-rays. The HENSA spectromet
+ er has a spectral sensitivity 5-15 times larger than conventional spectrom
+ eters in a wide neutron energy range spanning from thermal up to GeV’s. 
+ For cosmic-ray neutrons\, HENSA provides near real-time measurements of th
+ e neutron spectrum on a time scale of tens of minutes up to few hours\, th
+ us enabling possible applications in space weather as a neutron monitor wi
+ th spectral sensitivity. Since 2019 HENSA is being used for a long-term ch
+ aracterization of the neutron background at the Canfranc Underground Labor
+ atory (LSC)\, which includes continuous measurement in hall A and hall B (
+ HENSA/ANAIS collaboration). Moreover\, in 2020 HENSA has been used to map 
+ the cosmic-ray neutron background along the spanish territory during quiet
+  solar conditions at the beginning of the solar cycle #25. Currently\, a n
+ ew version of HENSA\, called HENSA++\, is being developed at IFIC for spac
+ e weather applications. The status of the HENSA project (www.hensaproject.
+ org) and future perspectives will be discussed in this talk.\nhttps://indi
+ co.ific.uv.es/event/6612/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6612/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collider Physics beyond LHC
+DTSTART;VALUE=DATE-TIME:20220404T130000Z
+DTEND;VALUE=DATE-TIME:20220404T140500Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6613@indico.ific.uv.es
+DESCRIPTION:Speakers: Adrian Irles (IFIC (CSIC-Universitat de València))\
+ nAdrian Irles Quiles is inviting you to a scheduled Zoom meeting.\nJoin Zo
+ om Meeting\nhttps://cern.zoom.us/j/62946862786?pwd=cXo4WGgySmR4azAvdU5JSTZ
+ tREF0QT09\n\nMeeting ID: 629 4686 2786\nPasscode: 651356\nOne tap mobile\n
+ +33186995831\,\,62946862786# France\n+33170372246\,\,62946862786# France\n
+ \nDial by your location\n        +33 1 8699 5831 France\n     
+    +33 1 7037 2246 France\n        +33 1 7037 9729 France\n   
+      +41 43 210 71 08 Switzerland\n        +41 31 528 09 88 Swi
+ tzerland\n        +41 43 210 7042 Switzerland\nMeeting ID: 629 4686
+  2786\nFind your local number: https://cern.zoom.us/u/cdhckx5ukg\n\nJoin b
+ y SIP\n62946862786@188.184.89.188\n62946862786@188.185.118.153\n\nJoin by 
+ H.323\n188.184.89.188\n188.185.118.153\nMeeting ID: 629 4686 2786\nPasscod
+ e: 651356\nhttps://indico.ific.uv.es/event/6613/
+LOCATION:Online
+URL:https://indico.ific.uv.es/event/6613/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: Beyond Standard Model Searches at Neutrino Telescope
+ s: Now and in the Future
+DTSTART;VALUE=DATE-TIME:20220405T100000Z
+DTEND;VALUE=DATE-TIME:20220405T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6608@indico.ific.uv.es
+DESCRIPTION:Speakers: Jeff Lazar (UW Madison & Harvard University)\nDespit
+ e the Standard Model’s (SM) success at explaining phenomenon in the stro
+ ng and electromagnetic sectors\, the weak sector\, specifically neutrinos\
+ , pose some challenges to it. Furthermore\, the observation of dark matter
+  (DM) among other observations heavily implies that we must expand the par
+ ticle content of the SM. These facts combined have made neutrino observato
+ ries a popular setting for searches for beyond SM particles\; however\, no
+  such search has found conclusive evidence of new physics so far. With a n
+ ew generation of neutrino detectors being designed\, it is important to un
+ derstand how design decisions affect sensitivity to different BSM models s
+ o that we can optimize this next generation to find new physics. In this s
+ eminar\, I will show the results of IceCube’s most recent solar DM searc
+ h\, as well as introduce a new tool\, Prometheus\, which allows for open-s
+ ource simulation of neutrino telescopes which may help guide the next gene
+ ration of telescopes.\n\n \n\nLink to recorded colloquium\nhttps://indico
+ .ific.uv.es/event/6608/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6608/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HiDDeN webinar: Freeze-in\, SuperWIMPs and Primordial Black holes 
+ as possible sources of Non-cold dark matter
+DTSTART;VALUE=DATE-TIME:20220405T140000Z
+DTEND;VALUE=DATE-TIME:20220405T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6614@indico.ific.uv.es
+DESCRIPTION:Speakers: Laura Lopez-Honorez (Université Libre de Bruxelles)
+ \nDark matter (DM) represents 80% of the matter budget of the Universe and
+  up\nuntil now its nature is unknown. Even if the DM would interact very f
+ eebly with the SM\, even gravitationally only\, it could leave a distincti
+ ve imprint on cosmology observables due to free-streaming at early times. 
+ In my talk in particular I will discuss the case of DM arising from Freeze
+ -in and superWIMP production mechanisms as well as primordial black hole e
+ vaporation. I will detail how in the later cases one can easily recast exi
+ sting constraints from Lyman-alpha forest observations on thermal warm dar
+ k matter into those (non thermal) Non Cold DM scenarios\, and discuss the 
+ complementarity between such a bound with other particle physics or cosmol
+ ogy constraints.\n \nhttps://indico.ific.uv.es/event/6614/
+LOCATION:online (& retransmitted from IFIC Seminar Room )
+URL:https://indico.ific.uv.es/event/6614/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reunión Comité Asesor de Artemisa
+DTSTART;VALUE=DATE-TIME:20220406T123000Z
+DTEND;VALUE=DATE-TIME:20220406T152000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6562@indico.ific.uv.es
+DESCRIPTION:Unirse a la reunión Zoom:\n\nhttps://cern.zoom.us/j/615787763
+ 98?pwd=NVdMQUdoMXBvUE9uYm1YdVE3RWlCUT09\n\n \n\n \nhttps://indico.ific.u
+ v.es/event/6562/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6562/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Przemysław Kopycki #StudentSeminar: Reconstruction of integral im
+ ages and examining integral imaging monitors
+DTSTART;VALUE=DATE-TIME:20220406T140000Z
+DTEND;VALUE=DATE-TIME:20220406T153000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6615@indico.ific.uv.es
+DESCRIPTION:Lightfield imaging is a technique that allows the capture and 
+ display of 3D information from 3D scenes obtained either from computer sim
+ ulations or from the real world. Apart from the display of 3D scenes\, lig
+ htfield imaging has many useful applications such as\, for example\, obtai
+ ning depth maps\, performing digital refocusing\, removing occlusions\, or
+  making object recognition.\n\nRecently\, many computational volumetric re
+ construction techniques are reported\; computational volumetric reconstruc
+ tion\, 3D profilometry\, pixel of elemental images rearrangement technique
+  (PERT)\, PERT with projected empty space (PERTS)\, and so on. In general\
+ , computational volumetric reconstruction is used because of its simplicit
+ y. In this method\, each elemental image is back-projected through the vir
+ tual pinhole array on the reconstruction plane. Since typical computationa
+ l volumetric reconstruction uses the pixilated process and the number of s
+ hifting pixels for reconstruction is the fixed integer value and uniformly
+  distributed\, the depth resolution of the reconstructed 3D image is not s
+ ufficient. Further\, the reconstructed 3D images have poor visual quality 
+ when elemental images with low resolution are used. To solve these problem
+ s\, a new reconstruction method is required. I will present new computatio
+ nal volumetric reconstruction method with improvement of depth resolution 
+ and visual quality for the reconstructed 3D images considering continuousl
+ y non uniform shifting pixels when elemental images with low resolution ar
+ e used. In proposed method\, we use non-uniformly distributed and integer 
+ valued shifting pixels for reconstruction. Thus\, the depth resolution can
+  be improved compared with the computational volumetric reconstruction met
+ hod. Also\, the visual quality of the reconstructed 3D images can be even 
+ enhanced than the conventional reconstruction.\n\nIntegral imaging monitor
+  consist high resolution screen and pinhole array. We can ask if is there 
+ any optimum value for the pinhole size that allows the observers to have a
+  sufficient 3D experience? The question comes out from the fact that to pr
+ ovide an accurate 3D reconstruction\, the pinholes should be as small as p
+ ossible. However\, small pinholes give rise to dotted-like display aspect\
+ , and to images with very low brightness. Although these features are know
+ n\, it is highly surprising that\, at the best of our knowledge\, no study
+  has been reported aiming to link the pinhole aperture with the 3D capabil
+ ity\, and consequently to find the optimum configuration in terms of 3D ef
+ fect and brightness. During the presentation I will present designed in op
+ tics laboratory a psychophysical test specifically adapted for lightfield 
+ monitors\, based on stereoacuity measurements using modified binary search
+  (MOBS)\, to examine the 3D capacity of pinhole-type monitor.\nhttps://ind
+ ico.ific.uv.es/event/6615/
+LOCATION:Universe
+URL:https://indico.ific.uv.es/event/6615/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Objectives and status of the ITER project\, the first fusion react
+ or under construction
+DTSTART;VALUE=DATE-TIME:20220407T103000Z
+DTEND;VALUE=DATE-TIME:20220407T120000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6601@indico.ific.uv.es
+DESCRIPTION:Speakers: Alberto Loarte (Head of the Science Division\, ITER 
+ Organization)\n\n\n \n\nLink to the recorded colloquium\nhttps://indico.i
+ fic.uv.es/event/6601/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6601/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUNE-IFIC meeting
+DTSTART;VALUE=DATE-TIME:20220407T103000Z
+DTEND;VALUE=DATE-TIME:20220407T113000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6622@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6622/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6622/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An introduction to xAct with applications to metric-affine gravity
+ \, cosmology and black holes.
+DTSTART;VALUE=DATE-TIME:20220411T090000Z
+DTEND;VALUE=DATE-TIME:20220413T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6573@indico.ific.uv.es
+DESCRIPTION:Schedule: Four sessions of 2 hours each on April 11\,12\, and 
+ 13 from 11:00 to 13:00 plus one more lecture on Tuesday 12 in the afterno
+ on. \n\nLecturer: Jose Beltrán Jiménez (U. Salamanca\, Spain). \n\n \
+ n\nThe goal of the course will be to give an elementary and practical intr
+ oduction to the Mathematica package xAct (http://www.xact.es/). The philos
+ ophy of the lectures will be to get familiarised with some capabilities of
+  the packages by working out explicit problems. Some basic notions of Math
+ ematica would be desirable. Basics of field theory\, gravitation\, cosmolo
+ gy and black holes physics will also be helpful\, but not strictly necessa
+ ry. As a matter of fact\, the proposed problems aim at providing some basi
+ cs of cosmological perturbations\, gravitational waves oscillations and bl
+ ack hole perturbations physics.\n\n \n\nLecture I (2 hours): First steps 
+ with xAct\n\nI.1.- Installation\, general philosophy of the package and su
+ rvey of the different capabilities.\n\nI.2.- Defining manifolds\, metrics\
+ , connections and tensors.\n\nI.3.- Proving some Bianchi identities.\n\nI.
+ 4.- Some applications in field theory: Computing field equations and the e
+ nergy-momentum tensor.\n\n \n\nLecture II (2 hours): Application to cosmo
+ logical perturbations.\n\nII.1.- Working with charts.\n\nII.2.- Gauge tran
+ sformations.\n\nII.3.- Weinberg theorem: Conservation of adiabatic modes.\
+ n\n \n\nLecture III (2 hours): Application to oscillations of gravitation
+ al waves.\n\nIII.1 Inequivalent realisations of the cosmological principle
+ . Working with two manifolds.\n\nIII.2 Isotropic solutions with SU(2) cosm
+ ological fields.\n\nIII.3. Two tensor modes: Oscillations of gravitational
+  waves.\n\n \n\nLecture IV (2 hours): Applications to black holes.\n\nIV.
+ 1. Spherically symmetric solutions.\n\nIV.2. Perturbations of black holes.
+ \n\nIV.3. Vanishing Love numbers.\nhttps://indico.ific.uv.es/event/6573/
+LOCATION:4-4-4426 - Seminari Física Teòrica (Campus Burjassot)
+URL:https://indico.ific.uv.es/event/6573/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:se-fis-med: Feasibility study of clinical target volume definition
+  for soft-tissue sarcoma using diffusion tensor imaging
+DTSTART;VALUE=DATE-TIME:20220411T140000Z
+DTEND;VALUE=DATE-TIME:20220411T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6464@indico.ific.uv.es
+DESCRIPTION:Speakers: Nadya Shusharina (Massachusetts General Hospital)\nM
+ edical Physics Seminar - Seminario de Física Médica\n\nTitle: Feasibilit
+ y study of clinical target volume definition for soft-tissue sarcoma using
+  diffusion tensor imaging\n\nAuthor: Nadya Shusharina\, PhD\n\nAffiliation
+ : Massachusetts General Hospital.\n\nSummary: We explore usability of the 
+ diffusion tensor MRI (DT-MRI) for defining the boundary of the clinical ta
+ rget volume in muscle tissue. Eight healthy volunteers were recruited to a
+ cquire MR images of the left and right thigh. The imaging session consiste
+ d of (a) two high resolution anatomical MRI scans (spin-echo\, SE)\, T1- a
+ nd T2-weighted\; (b) a diffusion weighted (DW) spin-echo-based scan using 
+ an echo planar acquisition with fat suppression. The thigh muscles were a
+ uto segmented using CNN. DT-MRI data was used as a geometry encoding input
+  to solve the anisotropic Eikonal equation with Hamiltonian Fast-Marching 
+ method. The iso-levels of the solution modeled the CTV boundary. The auto-
+ segmented muscles of the thigh agreed with manually delineated with the Di
+ ce score ranging from 0.8 to 0.94 for different muscles. The directional n
+ oise of the DT data as an angle of deviation from the average direction ra
+ nged from 31° to 40°. Anisotropy of the iso-levels was compared across m
+ uscles with different anatomical orientation within the thigh\, between mu
+ scles in left and right thighs of each subject and between muscles of diff
+ erent subjects. Analysis showed a high degree of consistency across all co
+ mparisons.\n\n \n\nOnline link: https://conectaha.csic.es/b/fer-gny-a0x-o
+ mp. The room access code will be sent per e-mail.\n\n \nhttps://indico.if
+ ic.uv.es/event/6464/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6464/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: Precision Standard Model calculations for BSM search
+ es with the CKM unitarity tests
+DTSTART;VALUE=DATE-TIME:20220412T100000Z
+DTEND;VALUE=DATE-TIME:20220412T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6546@indico.ific.uv.es
+DESCRIPTION:Speakers: Mikhail Gorchtein (Johannes Gutenberg-Universität M
+ ainz)\nUnitarity of the Cabibbo-Kobayashi-Maskawa (CKM) quark mixing matri
+ x is one of the cornerstones of the Standard Model (SM)\, a rigorous math
+ ematical expression of the universality of the weak interaction across qua
+ rk and lepton sectors. Recent reanalysis of the SM radiative corrections 
+ to beta decays of the free neutron\, nuclei and kaons led to an unexpected
+  3-5 sigma deficit in the unitarity constraint on the top-row elements of
+  the CKM matrix. The recent developments in the theory of 1-loop SM radia
+ tive corrections concern hadronic and nuclear contributions. The new appro
+ ach to nonperturbative QCD effects combines lattice QCD\, Regge theory\, 
+ effective field theory methods and modern nuclear theory computations with
+  dispersion theory and allows for a robust error estimation. With these i
+ mprovements\, beta decays remain a sensitive tool for searches for physics
+  beyond the Standard Model.\nhttps://indico.ific.uv.es/event/6546/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6546/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Si-ECAL Pre-CALICE Collaboration Meeting
+DTSTART;VALUE=DATE-TIME:20220419T063000Z
+DTEND;VALUE=DATE-TIME:20220420T100000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6578@indico.ific.uv.es
+DESCRIPTION:The Si-ECAL CALICE team will meet in Valencia (and remotely) i
+ n preparation of the Spring 2022 CALICE Collaboration Meeting that will 
+ be held at Valencia.\n\nBoth meetings will be hosted by the AITANA group f
+ rom the IFIC (a joint institute of CSIC & University of Valencia).\n\nLook
+ ing forward to seeing you at Valencia in April either in person or virtua
+ lly.\n\n \n\n\n\n \nhttps://indico.ific.uv.es/event/6578/
+LOCATION:1001-Primera-135 - Nave Exp. Sala de Audiovisuales (Universe)
+URL:https://indico.ific.uv.es/event/6578/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CALICE Collaboration Meeting at Valencia
+DTSTART;VALUE=DATE-TIME:20220420T063000Z
+DTEND;VALUE=DATE-TIME:20220422T163000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6577@indico.ific.uv.es
+DESCRIPTION:The Spring 2022 CALICE Collaboration Meeting will be held at
+  Valencia with the possibility of remote participation. It will be hosted
+  by the AITANA group from the IFIC (a joint institute of CSIC & University
+  of Valencia).\n\nLooking forward to seeing you at Valencia in April eith
+ er in person or virtually.\n\n\n \n\nRegistration\, Scientific Program\, 
+ Timetable and all important information can be found in the main event web
+ page  (LINK) \n\n \n\n\nhttps://indico.ific.uv.es/event/6577/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6577/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: "Dark Matter through the gravity portal: gravitation
+ al freeze-in and macroscopic relics"
+DTSTART;VALUE=DATE-TIME:20220426T100000Z
+DTEND;VALUE=DATE-TIME:20220426T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6565@indico.ific.uv.es
+DESCRIPTION:Speakers: Giacomo Landini (IFIC UV-CSIC)\nAt the present statu
+ s of knowledge\, gravity is the only portal between the Standard Model and
+  Dark Matter which has been proved by observations.  We propose two model
+ s in which Dark Matter has only gravitational interactions with the Standa
+ rd Model particles. The first model is a dark sector consisting of a pure 
+ non-abelian gauge theory.  After gauge confinement\, accidental symmetrie
+ s of group-theoretical nature result in gravitationally stable bound state
+ s which can be produced by gravitational freeze-in.  The second model is 
+ a gauge theory with a dark quark relic heavier than the confinement scale.
+  During the first order phase transition to confinement\, dark quarks rema
+ in in the false vacuum and get compressed  forming macroscopic relics whi
+ ch undergo gravitational collapse to stable dark dwarfs (gravitational bou
+ nd states analogous to white dwarfs) near the Chandrasekhar limit\, or pri
+ mordial black holes.\nhttps://indico.ific.uv.es/event/6565/
+LOCATION:Primera-1-1-1 - Paterna. Seminario (IFIC)
+URL:https://indico.ific.uv.es/event/6565/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hackathon - 4-angle analysis
+DTSTART;VALUE=DATE-TIME:20220427T070000Z
+DTEND;VALUE=DATE-TIME:20220503T170000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6600@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6600/
+LOCATION:1001-Primera-135 - Nave Exp. Sala de Audiovisuales (Universe)
+URL:https://indico.ific.uv.es/event/6600/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High resolution 80Se(n\,gamma) cross section measurement at CERN n
+ _TOF and development of the novel i-TED detection system
+DTSTART;VALUE=DATE-TIME:20220427T090000Z
+DTEND;VALUE=DATE-TIME:20220427T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6609@indico.ific.uv.es
+DESCRIPTION:Speakers: Víctor Babiano Suárez\nhttps://indico.ific.uv.es/e
+ vent/6609/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6609/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornadas Científicas IFIC\, L5: Gravity and the Dark Universe. Gr
+ avitational Waves and Black Holes
+DTSTART;VALUE=DATE-TIME:20220428T073000Z
+DTEND;VALUE=DATE-TIME:20220428T113000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6619@indico.ific.uv.es
+DESCRIPTION:We will present IFIC's recent and prospective work related to
+  L5 - Gravity and the Dark Universe: Gravitational Waves and Black Hole
+ s\nhttps://indico.ific.uv.es/event/6619/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6619/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julia for scientists
+DTSTART;VALUE=DATE-TIME:20220502T070000Z
+DTEND;VALUE=DATE-TIME:20220506T150000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6550@indico.ific.uv.es
+DESCRIPTION:PhD Course on Introduction to Julia Programming \n\nProfs: A
+ lberto Ramos\, Andrew Laing and J.J. Gómez Cadenas\n\nMay 2nd-6th\n\n9:30
+ -11:30\n\n15:00-17:00\n\n \nhttps://indico.ific.uv.es/event/6550/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6550/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Experimental Seminar: International Linear Collider - a Higgs
+  Factory
+DTSTART;VALUE=DATE-TIME:20220502T100000Z
+DTEND;VALUE=DATE-TIME:20220502T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6623@indico.ific.uv.es
+DESCRIPTION:Speakers: Hitoshi Yamamoto (IFIC)\nThe discovery of the Higgs 
+ particle ushered in a new era of particle physics where detailed study of 
+ this particle has become of paramount importance. It addresses a series of
+  problems of the standard model such as the identity of the dark matter\, 
+ the instability of the Higgs mass\, the matter dominance of our universe\,
+  among others. At present\, there is a general agreement in the field that
+  the highest priority as the next generation collider is a Higgs factory. 
+  The  International Linear Collider (ILC) is one of a few candidates for
+  such facility. We overview the background and the physics motivation of a
+  Higgs factory\, and review the current status of the ILC project.\n\n \n
+ https://indico.ific.uv.es/event/6623/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6623/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: TBA
+DTSTART;VALUE=DATE-TIME:20220503T100000Z
+DTEND;VALUE=DATE-TIME:20220503T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6589@indico.ific.uv.es
+DESCRIPTION:Speakers: John Gargalionis (IFIC - CSIC / U. Valencia)\nTBA\nh
+ ttps://indico.ific.uv.es/event/6589/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6589/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Quantum Computing
+DTSTART;VALUE=DATE-TIME:20220509T090000Z
+DTEND;VALUE=DATE-TIME:20220520T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6561@indico.ific.uv.es
+DESCRIPTION:Speakers: Armando Pérez\, Bryan Zaldívar\nINTRODUCTION TO QU
+ ANTUM COMPUTATION  (16 hours):\n\n(Two weeks\, from Monday to Thursday\, 
+ from 11:00 to 13:00)\n\n \n\n1)  1.1. Classical Computation: Turing mach
+ ine\; circuit model\; gates. \n\n     1.2  Computational complexity\
+ , Landauer Principle\, reversible computation\n\n2)  The qubit\, Bloch sp
+ here\, circuit model\, gates\, Bell basis. Universal Quantum Computation\n
+ \n3)  No Cloning Theorem\, quantum cloning\, teleportation\, dense coding
+ \, cryptography\n\n4) Quantum algorithms: Deutsch\, Grover\, Quantum Fouri
+ er\, Phase estimation\, Shor\n\n5) quantum computer technologies\n\n6) Qua
+ ntum programming\; Qiskit language\, Simple circuits.\n\n7) 7.1. Quantum i
+ nformation theory: density matrix\, Schmidt decomposition\, POVM\, Kraus\,
+  generalized measurements\n\n    7.2. Entanglement measures: Shannon\, n
+ oiseless coding theorem\, von Neumann\, Schumacher theorem\, Mutual  in
+ formation. \n\n8) Decoherence\, quantum noise. Quantum error correction.
+ \nhttps://indico.ific.uv.es/event/6561/
+LOCATION:IFIC
+URL:https://indico.ific.uv.es/event/6561/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIC Seminar: TITLE-HERE
+DTSTART;VALUE=DATE-TIME:20220510T100000Z
+DTEND;VALUE=DATE-TIME:20220510T113000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6492@indico.ific.uv.es
+DESCRIPTION:Speakers: Kevin James Kelly (CERN)\nhttps://indico.ific.uv.es/
+ event/6492/
+LOCATION:1001-Primera-1-1-1 - Paterna. Seminario (Universe)
+URL:https://indico.ific.uv.es/event/6492/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hackathon - tHq ML analysis
+DTSTART;VALUE=DATE-TIME:20220516T070000Z
+DTEND;VALUE=DATE-TIME:20220520T170000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6599@indico.ific.uv.es
+DESCRIPTION:https://indico.ific.uv.es/event/6599/
+LOCATION:1001-Primera-135 - Nave Exp. Sala de Audiovisuales (Universe)
+URL:https://indico.ific.uv.es/event/6599/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:se-fis-med: Overview and Current Status of the PETALO Project
+DTSTART;VALUE=DATE-TIME:20220516T100000Z
+DTEND;VALUE=DATE-TIME:20220516T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6455@indico.ific.uv.es
+DESCRIPTION:Speakers: Carmen Romo Luque (Universidad de Valencia - IFIC)\n
+ Medical Physics Seminar - Seminario de Física Médica\n\nTitle: Overview 
+ and Current Status of the PETALO Project.\n\nAuthor: Carmen Romo.\n\nAffil
+ iation: Universidad de Valencia - IFIC.\n\nSummary: PETALO (Positron Emiss
+ ion TOF Apparatus with Liquid xenOn) is a new concept in the field of Medi
+ cal Imaging aiming to demonstrate that liquid xenon (LXe) together with a 
+ SiPM-based readout and fast electronics\, provide a significant improvemen
+ t in PET-TOF technology. Liquid xenon allows a continuous medium with a hi
+ gh stopping power for 511-keV gammas as well as a uniform response avoidin
+ g most of the geometrical distortions of conventional detectors based on s
+ cintillating crystals. In addition\, SiPMs enable a fast and accurate meas
+ urement of the energy with a small noise contribution at the low temperatu
+ res required from LXe. PETit\, the first PETALO prototype built at IFIC (V
+ alencia)\, started operation in July 2021. It consists of an aluminum box 
+ with a unique volume of LXe and two planes of SiPMs that register the scin
+ tillation light emitted in xenon by the gammas coming from a Na22 radioac
+ tive source. After some months of data taking PETit is expected to demonst
+ rate the potential of the technology\, providing measurements of the most 
+ relevant features: reconstruction of the position\, energy and time of the
+  interactions.\n\n \n\nOnline link: https://conectaha.csic.es/b/fer-gny-a
+ 0x-omp. The room access code will be sent per e-mail.\n\n \nhttps://indic
+ o.ific.uv.es/event/6455/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6455/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TBD
+DTSTART;VALUE=DATE-TIME:20220526T103000Z
+DTEND;VALUE=DATE-TIME:20220526T120000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6518@indico.ific.uv.es
+DESCRIPTION:Speakers: Maurice Haguenauer (Ecole Polytechnique Palaiseau\, 
+ France)\nhttps://indico.ific.uv.es/event/6518/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6518/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:se-fis-med: TITLE-HERE
+DTSTART;VALUE=DATE-TIME:20220718T100000Z
+DTEND;VALUE=DATE-TIME:20220718T110000Z
+DTSTAMP;VALUE=DATE-TIME:20220419T125000Z
+UID:indico-event-6456@indico.ific.uv.es
+DESCRIPTION:Speakers: Gabriela Llosa (IFIC (CSIC-UV))\nMedical Physics Sem
+ inar - Seminario de Física Médica\n\nTitle: TITLE-HERE.\n\nAuthor: Gabri
+ ela Llosá\, PhD\n\nAffiliation: IFIC/CSIC.\n\nSummary: \n\n \n\nOnline l
+ ink: https://conectaha.csic.es/b/fer-gny-a0x-omp. The room access code wil
+ l be sent per e-mail.\n\n \nhttps://indico.ific.uv.es/event/6456/
+LOCATION:
+URL:https://indico.ific.uv.es/event/6456/
+END:VEVENT
+END:VCALENDAR
